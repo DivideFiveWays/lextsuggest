@@ -1,0 +1,2 @@
+# lextsuggest
+unoptimized word search
