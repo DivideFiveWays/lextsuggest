@@ -1,2 +1,2 @@
 # lextsuggest
-unoptimized word search
+unoptimized TRIE word search
