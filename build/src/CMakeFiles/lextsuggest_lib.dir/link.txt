@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/liblextsuggest_lib.a CMakeFiles/lextsuggest_lib.dir/trie.cpp.o CMakeFiles/lextsuggest_lib.dir/lextsuggest.cpp.o
+/usr/bin/ranlib ../lib/liblextsuggest_lib.a

@@ -1,0 +1,15 @@
+/home/prox/gdir/lextsuggest/build/CMakeFiles/local-install.dir
+/home/prox/gdir/lextsuggest/build/CMakeFiles/edit_cache.dir
+/home/prox/gdir/lextsuggest/build/CMakeFiles/rebuild_cache.dir
+/home/prox/gdir/lextsuggest/build/CMakeFiles/list_install_components.dir
+/home/prox/gdir/lextsuggest/build/CMakeFiles/install.dir
+/home/prox/gdir/lextsuggest/build/CMakeFiles/install/local.dir
+/home/prox/gdir/lextsuggest/build/CMakeFiles/install/strip.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/lextsuggest_lib.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/lextsuggest.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/edit_cache.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/rebuild_cache.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/list_install_components.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/install.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/install/local.dir
+/home/prox/gdir/lextsuggest/build/src/CMakeFiles/install/strip.dir
