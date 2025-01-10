@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/lextsuggest.dir/main.cpp.o -o ../bin/lextsuggest  ../lib/liblextsuggest_lib.a 
