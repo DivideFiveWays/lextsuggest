@@ -5,6 +5,10 @@ unoptimized TRIE word search
 - CMake >= 3.14
 - C++17 compiler
 
+- ## Configuration
+
+Edit `src/config.hpp.in` to modify install paths and data locations.
+
 ## Build
 
 ```bash
@@ -30,6 +34,4 @@ Clean:
 make clean
 ```
 
-## Configuration
 
-Edit `src/config.hpp.in` to modify install paths and data locations.
